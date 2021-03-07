@@ -1,4 +1,4 @@
-Krypton - Unidentified#1091
+--Krypton 1.0.0 - Unidentified#1091
 
-Credits: Hexo Source Creators (Custom Message Box, Animations)
-1.0.0
+-- Credits: Hexo Source Creators (ErrorBox)
+-- https://discord.gg/ahFjGJYqbe
